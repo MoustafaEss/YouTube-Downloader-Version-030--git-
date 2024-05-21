@@ -1,4 +1,4 @@
-from customtkinter import CTk, CTkLabel, CTkEntry, CTkButton, CTkComboBox, CTkProgressBar, CTkFrame, CTkFont
+from customtkinter import *
 from pytube import YouTube
 from threading import Thread
 from tkinter import filedialog
